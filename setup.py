@@ -7,4 +7,6 @@ setup(
         'console_scripts': [
             'odysseus = odysseus.__main__:main'
         ]
-    })
+    },
+    install_requires=["tensorflow>=2.2.0", "Click>=7.1.2"],
+    )
