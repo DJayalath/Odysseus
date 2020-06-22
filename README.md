@@ -14,7 +14,7 @@ Example: `odysseus ~/Pictures/cat.jpg` will predict the real file type of `cat.j
 ## Detection Support
 Images: `PNG, JPEG, GIF`
 
-Documents: `PDF, DOC, DOCX`
+Documents: `PDF, DOC, DOCX, TEX, RTF, HTML`
 
 Audio: `MP3`
 

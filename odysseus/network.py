@@ -6,7 +6,7 @@ class Network:
 
     def __init__(self):
         # Load the TFLite model and allocate tensors.
-        self.interpreter = tf.lite.Interpreter(model_path="odysseus/model.tflite")
+        self.interpreter = tf.lite.Interpreter(model_path="odysseus/model0.tflite")
         self.interpreter.allocate_tensors()
 
         # Get input and output tensors.
