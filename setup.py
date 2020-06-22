@@ -8,5 +8,5 @@ setup(
             'odysseus = odysseus.__main__:main'
         ]
     },
-    install_requires=["tensorflow>=2.2.0", "Click>=7.1.2"],
+    install_requires=["Tensorflow>=2.0.0", "Click>=7.1.2"],
     )
